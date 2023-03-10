@@ -1,0 +1,73 @@
+Strategic Planning
+Plant Operations
+P&L Accountability
+Project Management
+Maintenance
+Troubleshooting
+Installation & Commissioning
+Business Process Reengineering
+Cost / Resource Optimization
+Techno-commercial Operations
+Auditing
+Compliance
+Coordination & Liaison
+Team Management/Training
+Conversant with Java based Packages
+SAP
+SIEBEL
+Project Systems
+Access
+C
+Prince2
+Dbase
+FoxPro
+UNIX
+Oracle
+MS Office
+Internet Applications
+Project Execution
+Operations & Maintenance
+Breakdown Analysis
+Repairing & Testing
+Process Enhancements
+Technical Support/Troubleshooting
+Overhauling & Calibration
+Technical Documentation
+Team Management
+C+
+C++
+MS Office
+JAVA
+Microsoft Windows XP
+Vista 7
+Net beans IDE
+MySQL
+Bootstrap 3
+Drupal
+Wordpress
+Adobe Dreamweaver 
+Big Data Handoop
+machine learning
+deep learning
+nlp
+natural language processing
+Ms Excel
+data science
+power BI
+linux
+weka
+sql
+django
+microsoft word
+computer vision
+tensorflow
+powerpoint
+mongodb
+artificial intelligence
+ai
+flask
+data structures
+python
+css
+github
+Asp.net
