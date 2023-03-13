@@ -11,9 +11,16 @@ conn = mysql.connector.connect(
 
 mycursor = conn.cursor(buffered=True)
 
+"""
+Infinite While loop is created that continuously checkes where colum resume_parsed has any False value. If there is not any matching
+value, the loop will terminate else it will extract the resume name and join it with s3 bucket path to extract data from that resume.
+After extracting data from resume it will update value to hrms_candidates table. and set resume_parsed value True.
+
+"""
 parsed = True
-# Infinite while loop created to continue check resume_parsed = FALSE
+
 while parsed:
+    #fetch id and resume column from tabel
     mycursor.execute("SELECT id, resume FROM hrms_candidates WHERE resume_parsed = FALSE" ) 
     # Fetch pending records 
     pending_resume = mycursor.fetchone()

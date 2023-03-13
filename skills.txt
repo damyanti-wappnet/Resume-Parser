@@ -58,7 +58,6 @@ linux
 weka
 sql
 django
-microsoft word
 computer vision
 tensorflow
 powerpoint
@@ -71,3 +70,1130 @@ python
 css
 github
 Asp.net
+PHP
+HTML
+WordPress
+JavaScript
+Software Architecture
+MySQL
+Python
+SEO
+Java
+C# Programming
+Node.js
+Linux
+C Programming
+Link Building
+React.js
+eCommerce
+HTML5
+C++ Programming
+Web Scraping
+Shopify
+Laravel
+.NET
+Twitter
+Visual Basic
+Flutter
+Web Development
+System Admin
+Web Hosting
+SQL
+Game Development
+Amazon Web Services
+User Interface / IA
+AngularJS
+Social Networking
+Microsoft SQL Server
+React Native
+Software Development
+Digital Marketing
+YouTube
+ASP.NET
+Blockchain
+API
+Software Testing
+Objective C
+Unity 3D
+Artificial Intelligence
+Express JS
+Metatrader
+Website Management
+iOS Development
+Django
+Network Administration
+Figma
+Google Plus
+Social Media Management
+NoSQL Couch & Mongo
+Next.js
+Ubuntu
+Instagram
+MongoDB
+Windows Desktop
+Game Design
+Google Analytics
+jQuery / Prototype
+Database Administration
+Pinterest
+Swift
+XML
+Web Security
+Microsoft Access
+Database Programming
+API Integration
+Typescript
+Website Build
+Full Stack Development
+Vue.js
+Magento
+VoIP
+Backend Development
+Chatbot
+Android App Development
+Website Testing
+JSON
+Web Application
+Windows Server
+Coding
+Unreal Engine
+Azure
+PostgreSQL
+Frontend Development
+Pine Script
+WordPress Plugin
+Cloud Computing
+Google Firebase
+Computer Security
+Asterisk PBX
+Adobe Premiere Pro
+Microsoft
+ChatGPT
+Codeigniter
+Linkedin
+Payment Gateway Integration
+Testing / QA
+Apache
+RESTful API
+Blender
+Non-fungible Tokens (NFT)
+Spring Boot
+Cryptocurrency
+Google Chrome
+Database Development
+Elementor
+Shopping Carts
+Stripe
+Wix
+Ethereum
+Google Cloud Platform
+Shopify Development
+Angular
+Web Design
+J2EE
+MVC
+Google Maps API
+Power BI
+Data Collection
+Unity
+Zoho
+Docker
+Computer Science
+Flask
+Smart Contracts
+Cisco
+Server
+React.js Framework
+Sharepoint
+Dart
+Visual Basic for Apps
+VB.NET
+Odoo
+AWS Lambda
+Test Automation
+AJAX
+Shell Script
+Plugin
+App Developer
+Webflow
+Google Sheets
+.NET Core
+Solidity
+Web3.js
+Drupal
+Oracle
+DNS
+Prestashop
+Bitcoin
+RESTful
+Office 365
+Embedded Software
+Nginx
+UNIX
+Symfony PHP
+WHMCS
+Git
+SEO Auditing
+Amazon FBA
+Software Engineering
+User Experience Research
+NLP
+Joomla
+Golang
+Usability Testing
+PhoneGap
+SPSS Statistics
+Powershell
+Geographical Information System (GIS)
+Adobe Illustrator
+Web API
+jQuery
+Google APIs
+Hubspot
+API Development
+WebRTC
+MERN Stack
+Microsoft PowerBI
+SaaS
+REST API
+White Hat SEO
+Google App Engine
+Microsoft Exchange
+R Programming Language
+Internet Security
+Squarespace
+Tableau
+Java Spring
+Kubernetes
+Automation
+Telegram API
+Ruby on Rails
+CMS
+OCR
+Open Cart
+Salesforce App Development
+Email Developer
+Raspberry Pi
+Corel Draw
+Tensorflow
+Bubble Developer
+Vue.js Framework
+Computer Vision
+Microsoft Azure
+Dynamic 365
+Selenium
+Website Optimization
+Ansys
+.NET Core Web API
+Android Studio
+Desktop Application
+Google Search
+GPT-3
+OpenAI
+Mac OS
+SAP
+Socket IO
+Web Services
+Ionic Framework
+Data Visualization
+AI/RPA development
+ASP.NET MVC
+Redux.js
+Three.js
+Certified Ethical Hacking
+Funnel
+Zapier
+cPanel
+Active Directory
+Analytics
+Mobile App Testing
+Elasticsearch
+Business Intelligence
+Google Tag Management
+GitHub
+MQL4
+PowerApps
+GraphQL
+Visual Studio
+Zoho CRM
+MetaTrader 4
+Binance
+Nest.js
+FastAPI
+Microsoft 365
+Script Install
+PayPal API
+IIS
+CakePHP
+Dynamics
+Moodle
+Ruby
+SQLite
+Bluetooth Low Energy (BLE)
+CSS3
+Data Integration
+Facebook Pixel
+Architectural Engineering
+Amazon Product Launch
+App Development
+Robot Operating System (ROS)
+SIP
+PLC
+Data Backup
+Solana
+MERN
+Tailwind CSS
+Amazon Listings Optimization
+CI/CD
+Virtual Reality
+Metatrader 5
+Liquid Template
+JSP
+Delphi
+Troubleshooting
+WPF
+Debugging
+VPS
+VMware
+Google Webmaster Tools
+Data Warehousing
+Augmented Reality
+Learning Management Systems (LMS)
+Facebook API
+Scripting
+phpMyAdmin
+Selenium Webdriver
+Apple Xcode
+GitLab
+Firmware
+Revit
+Magento
+MEAN Stack
+Zoho Creator
+A+ Certified IT Technician
+Roblox
+.NET 5.0/6
+Content Management System (CMS)
+AWS Amplify
+Terraform
+Google Apps Scripts
+Spring Security
+SOAP API
+Page Speed Optimization
+UML Design
+Forum Software
+Electronic Forms
+Zend
+Yii
+eLearning
+BigCommerce
+Debian
+Lisp
+MQTT
+Lua
+Google Cloud Storage
+Tally Definition Language
+Xamarin
+Swing (Java)
+Cinematography
+Bash Scripting
+BeautifulSoup
+Documentation
+Jenkins
+Rust
+CentOs
+NumPy
+Twilio
+ServiceNow
+Local Area Networking
+TvOS
+Algorithm Analysis
+User Story Writing
+Adobe XD
+BigQuery
+Data Management
+VPN
+Firewall
+Power Automate
+AWS SageMaker
+WEBDEV
+Progressive Web Apps
+System Administration
+Process Simulation
+AR / VR 3D Asset
+Snowflake
+Perl
+ASP
+Cocoa
+CUDA
+vTiger
+Plesk
+LabVIEW
+Apple Safari
+Assembly
+Agile Development
+CS-Cart
+OpenCL
+Scala
+MariaDB
+Redis
+Heroku
+Sketching
+cURL
+Virtual Machines
+OpenCV
+JUnit
+Web Crawling
+Website Analytics
+SSIS (SQL Server Integration Services)
+T-SQL (Transact Structures Query Language)
+Articulate Storyline
+HTTP
+Javascript ES6
+Revit Architecture
+Cloud Data
+Google PageSpeed Insights
+Microsoft Project
+Network Security
+Amazon S3
+Network Engineering
+Minecraft
+SMTP
+Electron JS
+Ansible
+ArchiCAD
+AutoCAD Advance Steel
+JUCE
+Cloudflare
+Point of Sale
+Bioinformatics
+SurveyMonkey
+Pandas
+Monday.com
+Outreach.io
+GameMaker
+QR Code Making
+Bitrix
+JavaFX
+Cold Fusion
+MMORPG
+MySpace
+Photoshop Coding
+Erlang
+Volusion
+DotNetNuke
+Boonex Dolphin
+Social Engine
+Google Wave
+Expression Engine
+Silverlight
+Zen Cart
+AS400 & iSeries
+REALbasic
+MODx
+OSCommerce
+vBulletin
+Protoshare
+Balsamiq
+Microsoft Expression
+Virtual Worlds
+Chrome OS
+GPGPU
+BMC Remedy
+HP Openview
+Chordiant
+COBOL
+Prolog
+Fortran
+Google Buzz
+Apache Solr
+Pentaho
+Solaris
+Freelancer API
+XSLT
+FileMaker
+PICK Multivalue DB
+Blog Install
+Google Earth
+Virtuemart
+Sencha / YahooUI
+TaoBao API
+Business Catalyst
+IBM Tivoli
+CRE Loaded
+Visual Foxpro
+CubeCart
+Rocket Engine
+AutoHotkey
+Parallels Desktop
+Virtuozzo
+Parallels Automation
+Lotus Notes
+Firefox
+TestStand
+Kinect
+Smarty PHP
+Interspire
+Face Recognition
+Pattern Matching
+Computer Graphics
+Haskell
+Gamification
+DOS
+Google Checkout
+Ning
+Game Consoles
+Tumblr
+Scrum Development
+Grease Monkey
+Google Web Toolkit
+webMethods
+Big Data Sales
+Hadoop
+Map Reduce
+OpenGL
+SugarCRM
+x86/x64 Assembler
+Windows API
+4D
+QlikView
+Siebel
+QuickBase
+Umbraco
+Biztalk
+Puppet
+Chef Configuration Management
+backbone.js
+Dthreejs
+Knockout.js
+Windows 8
+CasperJS
+BSD
+edX
+Red Hat
+Jabber
+XMPP
+XQuery
+Scheme
+VertexFX
+VoiceXML
+Call Control XML
+TYPO3
+IBM Websphere Transformation Tool
+Qualtrics Survey Platform
+Argus Monitoring Software
+Sphinx
+Parallax Scrolling
+OpenVMS
+Scrum
+ITIL
+Growth Hacking
+GameSalad
+Alibaba
+Adobe Air
+Snapchat
+Ember.js
+Zendesk
+WatchKit
+Microsoft Hololens
+Binary Analysis
+MonetDB
+GoPro
+Grunt
+LESS/Sass/SCSS
+Hive
+HBase
+Yarn
+Cassandra
+Spark
+Bower
+PencilBlue CMS
+Wufoo
+OpenBravo
+Vuforia
+Oculus Mobile SDK
+Google Cardboard
+Magic Leap
+Android Wear SDK
+Samsung Accessory SDK
+iBeacon
+Tizen SDK for Wearables
+Leap Motion SDK
+DDS
+AMQP
+Xoops
+Papiamento
+HomeKit
+Weebly
+Steam API
+Redshift
+CLIPS
+Tibco Spotfire
+Xojo
+DataLife Engine
+Minitab
+Paytrace
+FreeSwitch
+Applescript
+Apache Ant
+LINQ
+OAuth
+OpenSSL
+OpenStack
+Regular Expressions
+Squid Cache
+Subversion
+Varnish Cache
+Splunk
+IBM BPM
+GIMP
+Veeam
+LiveCode
+Titanium
+RapidWeaver
+Adobe Captivate
+PEGA PRPC
+JD Edwards CNC
+Open Journal Systems
+XPages
+Storage Area Networks
+MeteorJS
+Grails
+Microsoft Visio
+OpenSceneGraph
+Ray-tracing
+Parallel Processing
+Visualization
+Oculus Rift
+HTC Vive
+Penetration Testing
+Asana
+Pardot Development
+Eclipse
+Copyright
+OpenVPN
+Camtasia
+Netbeans
+Pascal
+Qt
+CV Library
+Adobe Muse
+Object Oriented Programming (OOP)
+Twitter API
+Instagram API
+XHTML
+Scrapy
+Assembla
+XAML
+Moz
+ADO.NET
+Apache Maven
+OpenVZ
+Adobe Pagemaker
+PhpNuke
+Graphics Programming
+phpFox
+Adobe Freehand
+ARKit
+ARCore
+jqGrid
+Push Notification
+Sails.js
+Vim
+F#
+Jinja2
+xpath
+Racket
+Datatables
+Dojo
+Lucene
+Charts
+cxf
+CoffeeScript
+IBM Bluemix
+XSS (Cross-site scripting)
+MapKit
+Scikit Learn
+Clojure
+Elixir
+Cocoa Touch
+VBScript
+Ext JS
+SVG
+ECMAScript
+Handlebars.js
+Julia Language
+Underscore.js
+RSS
+GTK+
+Java ME
+SCORM
+Enterprise Architecture
+Atlassian Confluence
+Apple UIKit
+Keras
+Pytorch
+Solutions Architecture
+Development Operations
+Sketch
+Sass
+DOM
+RxJS
+NgRx
+Angular Material
+Karma Javascript
+Jasmine Javascript
+Protractor Javascript
+Fastlane
+CocoaPods
+Carthage
+Swift Package Manager
+Xcodebuild
+NoSQL
+Storm
+Heron
+Vapor
+Boost
+Travis CI
+TeamCity
+CircleCI
+ASM
+Version Control Git
+Prometheus Monitoring
+Soldering
+Armadillo
+LIBSVM
+FLANN
+SciPy
+Vowpal Wabbit
+ES8 Javascript
+iMacros
+Alteryx
+SDW N17 Service Qualification
+Amibroker Formula Language
+SAP Hybris
+VtrunkD
+SD-WAN
+IBM Tririga
+BIRT Development
+Data Modernization
+ERP Software
+Open Source
+SAP Transformation
+IT Transformation
+Infor
+Time & Labor SAP
+SAP Pay
+EC Pay Workday
+SAP 4 Hana
+SFDC
+Oracle Retail
+Cloud Finance
+Oracle EBS Tech Integration
+Guidewire
+CompTIA
+Cloud
+MuleSoft
+Java Technical Architecture
+Apttus
+NetSuite
+Anaplan
+Salesforce Marketing Cloud
+SAP BODS
+Data Governance
+Informatica Powercenter ETL
+Apache Hadoop
+Informatica MDM
+Oracle OBIA
+Oracle OBIEE
+IT Operating Model
+IT strategy
+SAP HANA
+SAP Business Planning and Consolidation
+Cloud Procurement
+Oracle Database
+Ariba
+Oracle Hyperion
+Cognos
+Znode
+Yii2
+PHP Slim
+Atlassian Jira
+SAP PI
+SAP CPI
+Salesforce Commerce Cloud
+Julia Development
+HP-UX
+Hewlett Packard
+Mobile Development
+Adobe Dynamic Tag Management
+Segment
+Tealium
+ETL
+Facebook Product Catalog
+Facebook SDK
+Server to Server Facebook API Integration
+Offline Conversion Facebook API Integration
+Airtable
+Cocos2d
+V-Play
+WinJS
+KNIME
+PC Programming
+Genetic Algebra Modelling System
+Arena Simulation Programming
+Managed Analytics
+Test
+Amazon App Development
+Cloud Development
+Cloud Networking
+Cloud Security
+Dropbox API
+Certified Information Systems Security Professional (CISSP)
+Digital Signal Processing
+Learning Management Solution (LMS) Consulting
+Highcharts
+Caspio
+LearnDash
+Kendo UI
+D3.js
+NAV
+Business Central
+Dynatrace Software Monitoring
+Application Performance Monitoring
+Oracle Primavera
+Xara
+Alexa Modification
+Prototyping
+Google Docs
+Slack
+Agile Project Management
+PostgreSQL Programming
+Roadnet
+A-GPS
+A/B Testing
+A+ Certified Professional
+Ab Initio
+Advanced Business Application Programming (ABAP)
+ABAP Web Dynpro
+Abaqus
+ABIS
+AbleCommerce
+Ableton
+Ableton Live
+Ableton Push
+Ada programming
+AIX Administration
+AJAX Frameworks
+AJAX Toolkit
+Ajax4JSF
+Akka
+Alacra
+ALBPM
+Alias
+Alibre Design
+Alienbrain
+All-Source Analysis
+AlphaCAM
+Altera Quartus
+ABAP List Viewer (ALV)
+Alvarion
+Automatic Number Plate Recognition (ANPR)
+AC3
+ACARS
+K2
+Polarion
+Redmine
+Hardware Security Module
+Keycloak
+Cloud Foundry
+National Building Specification
+Atmel
+BuddyPress
+Crestron
+Facebook Development
+System Analysis
+SAP Screen Personas
+Micros RES
+OpenBSD
+IMAP
+POP / POP3
+Dovecot
+Postfix
+P2P Network
+Adobe Experience Manager
+MicroStrategy
+PHPrunner
+Office Add-ins
+HyperMesh
+Application Packaging
+Packaging Technology
+MOVEit
+IBM MQ
+IBM Integration bus
+IBM Datapower
+PySpark
+Oracle APEX
+Fusion 360
+Houdini
+IBM Cloud
+Buildbox
+Development
+Creo
+Geofencing
+COMPASS
+Financial Software Development
+IT Project Management
+Jade Development
+RPG Development
+Technology Consulting
+Electronic Data Interchange (EDI)
+Messenger Marketing
+Google Canvas
+FaunaDB
+ArangoDB
+GatsbyJS
+Jamstack
+Elm
+PureScript
+Svelte
+Reason
+Altium Designer
+Altium NEXUS
+CircuitStudio
+CircuitMaker
+ActiveCampaign
+MailerLite
+App Publication
+App Reskin
+Reverse Engineering
+RichFaces
+Low Code
+Appian BPM
+OctoberCMS
+Twitch
+Mininet
+Ryu Controller
+Udacity
+Arc
+Regression Testing
+Graylog
+Adobe Acrobat
+Espruino
+Puck.js
+Adobe Audition
+Adobe Creative Cloud
+Agora
+Affectiva
+Alpine JS
+Android SDK
+Forth
+ArcMap
+Aspen HYSYS
+Blazor
+Windows Service
+Citadela
+BitMEX
+Fedora
+Data Modeling
+Predictive Analytics
+Apigee
+PCI Compliance
+Wrike
+Kibana
+Dynatrace
+ArcGIS
+Biostatistics
+Jimdo
+Bash
+Apache Kafka
+TailWind
+Performance Tuning
+Mule
+SSL
+Ubiquiti
+TradeStation
+Playstation VR
+Apollo
+Informatica
+Network Monitoring
+Scrivener
+Chromium
+Kajabi
+Avaya
+Teradata
+Braintree
+Big Data
+Appfolio
+HIPAA
+Formstack
+Hybris
+Apache Spark
+Algolia
+Backtesting
+Binance Smart Chain
+Binary Search
+Cross Browser
+LAMP
+Clover
+Twago
+HFT
+PayPal
+Corda
+ADF / Oracle ADF
+Bukkit
+Quality Engineering
+FinTech
+DApps
+Juniper
+Celery
+Gulp.js
+Truffle
+RabbitMQ
+Litecoin
+Hyperledger
+Hyperledger Fabric
+Hugo
+Amazon ECS
+Nagios Core
+Citrix
+CSS2
+Angular 4
+Angular 6
+Docker Compose
+Phoenix
+PHPUnit
+DigitalOcean
+Amazon CloudFront
+Jamf
+Amazon CloudFormation
+Linear Regression
+Cordana
+Polkadot
+Ergo
+Algogrand
+Tether
+Terra
+DEMAT
+Dogecoin
+Etherscan
+GeoJSON
+Ionic React
+Jitsi
+Lottie
+Metamask
+Micropython
+Netlify
+OKTA
+OTT
+Proto
+Ratio Analysis
+Rebranding
+Roslyn
+Strapi
+Thermodynamics
+Tinkercad
+TRON
+Weblogic
+Wireguard
+WMS
+Powtoon
+Chart.js
+Bluebeam
+VideoHive
+FoxyCart
+Hybrid App
+Plivo
+Toon Boom
+Moho
+Lumion
+PyCaret
+AWS Translate
+AWS Textract
+AWS Polly
+GCP AI
+Background Removal
+Adobe Animate
+Corteza
+Cloud Monitoring
+Website Localization
+App Localization
+WordPress Multilingual
+Draw.io
+GrooveFunnels
+Google Data Studio
+Vulkan
+DirectX
+Metal
+Vymo
+Software Performance Testing
+API Testing
+JMeter
+Adobe Analytics
+Backbase
+WINDEV
+WINDEV Mobile
+CAN Bus
+BitMEX API
+AutoML
+Construct 3
+Phaser
+Godot
+PlayFab
+Photon Multiplayer
+Modding
+Editorial Design
+Fruugo
+Hibernate
+TopSolid
+TopSolid Wood
+Gravity Forms
+MyBB
+phpBB
+XenForo
+Spring Data
+Spring JPA
+Keyshot
+Core PHP
+Zoom
+LIMS (Laboratory Information Management System)
+Yandex
+Baidu
+Quora
+Dapper
+GeoServer
+Graphical Network Simulator-3
+GTmetrix
+Cardano
+Plutus
+Magnolia
+Unbounce
+UX Research
+Webpack
+Xcode
+Microsoft Graph
+Telerik
+Razor Template Engine
+Quarkus
+PoseNet
+POS development
+Adobe Systems
+Google Systems
+GoDaddy
+Distributed Systems
+Monkey C
+Garmin IQ
+OpenNMS
+CNC
+Stable Diffusion
+Dall-E
+DIALux
+Relux
+Oracle Analytics
+Digital System Engineering
+Digital Operations
+Adobe Workfront
+Cloud Custodian
+Windchill PLM
+Discord API
+Guacamole
